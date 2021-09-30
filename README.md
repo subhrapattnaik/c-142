@@ -5,6 +5,6 @@ with open('final.csv', encoding="utf8") as f:
 
 
 -----------------------------------
-merge_csv.py is giving error
+merge_csv.py is giving error(solved , by putting  encoding="utf8")
 
-need to check with curriculum team
+
